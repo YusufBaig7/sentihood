@@ -1,5 +1,5 @@
 # sentihood
-The following webistes/repositories were used as references while making this model
+The following webistes/repositories were used as references while making this model<br/>
 https://github.com/abhishekkrthakur/bert-sentiment
 https://analyticsindiamag.com/guide-to-sentiment-analysis-using-bert/
 https://github.com/LorenzoAgnolucci/BERT_for_ABSA
